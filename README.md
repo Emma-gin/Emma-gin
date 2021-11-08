@@ -1,6 +1,13 @@
 <h1 align="center" style="color: white">Hi there, I'm Emma <img height="50px" width="50px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt=""/>
 <br/> 
-<img src="https://img.shields.io/badge/link=https://www.linkedin.com/in/emma-dufrenay/style=for-the-badge&logo=linkedin&logoColor=white"/></h1>
+ <a 
+                href="https://www.linkedin.com/in/emma-dufrenay/"
+                rel="nofollow noreferrer"
+            >
+                <img height="20px"
+                src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+                alt="linkedin" />
+            </a></h1>
 
 <p align="center">
 <img
